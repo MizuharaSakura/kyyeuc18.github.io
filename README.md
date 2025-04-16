@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang=”vi”>
-<head>
-    <meta charset=”UTF-8”>
-    <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
-    <title>Danh Sách Lớp 12C18</title>
+
     <style>
     .body {
       margin: 0;
@@ -139,5 +134,4 @@
         © 2025 với những kỉ niệm tuyệt vời nhất cùng C18 :3
         Copyright by Bẻo, Chivy, Hung, Bi, Chzang, Phú
       </div>
-</body>
-</html>
+
