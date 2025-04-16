@@ -128,5 +128,4 @@
         © 2025 với những kỉ niệm tuyệt vời nhất cùng C18 :3
         Copyright by Bẻo, Chivy, Hung, Bi, Chzang, Phú
       </div>
-</body>
-</html>
+
